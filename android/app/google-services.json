@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622551973295",
+    "project_id": "shebh-aljazeera-store",
+    "storage_bucket": "shebh-aljazeera-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622551973295:android:319cf6b9ff352f41fa035a",
+        "android_client_info": {
+          "package_name": "com.example.shebhaljazeerastore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzMJxGdugiR4QCBHUNKuSIIbvtaTCAP0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
